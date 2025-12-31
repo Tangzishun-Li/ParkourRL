@@ -254,10 +254,10 @@ To modify training parameters (Batch Size, Learning Rate, Epsilon), edit the cor
 \#10 Luo Zhengnan \
 \#15 Zhang Gaoyuan \
 \#17 Jin Qihao \
-\#21 Li Tangzishun \
-\#26 Chen Junyu \
+\#21 [Li Tangzishun](https://github.com/Tangzishun-Li) \
+\#26 [Chen Junyu](https://github.com/Chenjunyu1010) \
 \#30 Li Nizhang\
-*(Ranking in no particular order, just sort by student number.)*\
+*(Ranking in no particular order, just sort by student number.)*
 
 ---
 ## 🙏 Acknowledgments

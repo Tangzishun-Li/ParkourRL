@@ -253,8 +253,8 @@ python main.py build
 \#10 Luo Zhengnan \
 \#15 Zhang Gaoyuan \
 \#17 Jin Qihao \
-\#21 Li Tangzishun \
-\#26 Chen Junyu \
+\#21 [Li Tangzishun](https://github.com/Tangzishun-Li)\
+\#26 [Chen Junyu](https://github.com/Chenjunyu1010) \
 \#30 Li Nizhang\
 *(排名顺序没有先后, 只是根据学号排序)*
 
