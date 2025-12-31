@@ -58,11 +58,15 @@ This is the most stable method for Windows development.
 If you prefer using a package manager:
 
 1. Open PowerShell as Administrator.
-2. Run the following command:
+2. Run the following command to install [scoop](https://scoop.sh/)(A command-line installer for Windows):
 ```powershell
-choco install python mingw cmake -y
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
-
+3. then install python, mingw, cmake
+```bash
+scoop install python mingw cmake 
+```
 
 
 #### 🍎 For macOS Users

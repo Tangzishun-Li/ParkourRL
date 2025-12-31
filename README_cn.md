@@ -55,9 +55,14 @@ ParkourRL/
 如果您更喜欢使用包管理器：
 
 1. 以管理员身份打开 PowerShell。
-2. 运行以下命令：
+2. 运行以下命令安装 [scoop](https://scoop.sh/)(Windows 命令行安装器)：
 ```powershell
-choco install python mingw cmake -y
+Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
+Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
+```
+1. 安装 python, mingw, cmake
+```bash
+scoop install python mingw cmake 
 ```
 
 
