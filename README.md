@@ -241,6 +241,11 @@ To modify training parameters (Batch Size, Learning Rate, Epsilon), edit the cor
 ### v1.1
 
 * **Physics Fix:** Adjusted crouch duration frame logic (8,30 -> 8,40) to resolve collision issues with long hook obstacles.
+---
+## 🌸 Future work
+1. Develop docker containers to facilitate running projects in different environments.
+2. Implement more reinforcement learning algorithms, such as PPO.
+
 
 ---
 ## 🙏 Acknowledgments
