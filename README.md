@@ -1,13 +1,15 @@
 ![Role|50](https://github.com/Tangzishun-Li/ParkourRL/blob/main/res/d1.png)![Role|50](https://github.com/Tangzishun-Li/ParkourRL/blob/main/res/d1.png)![Role|50](https://github.com/Tangzishun-Li/ParkourRL/blob/main/res/d1.png)
 
-# ParkourRL: Deep Reinforcement Learning for 2D Parkour Game
-
 [Readme Chinese version](./README_cn.md)
 ---
+# ParkourRL: Deep Reinforcement Learning for 2D Parkour Game
+
 **ParkourRL** is a reinforcement learning research project that integrates a high-performance C++ physics engine with Python-based Deep Reinforcement Learning (DRL) algorithms. The project utilizes **Pybind11** to expose the C++ game environment to Python, enabling efficient training of agents using **DQN**, **A2C**, and **SARSA** algorithms to autonomously navigate complex obstacle courses.
 
----
+📽️our project video: [Click to watch on YouTube](https://youtu.be/mt-hTwFStYk)\
 
+
+---
 ## 📂 Project Structure
 
 ```text
@@ -239,6 +241,11 @@ To modify training parameters (Batch Size, Learning Rate, Epsilon), edit the cor
 ### v1.1
 
 * **Physics Fix:** Adjusted crouch duration frame logic (8,30 -> 8,40) to resolve collision issues with long hook obstacles.
+
+---
+## 🙏 Acknowledgments
+
+Finally, we would like to express our sincere gratitude to Professor Lu and teaching assistants at Macau University of Science and Technology for their guidance and support in enabling us to complete this project.
 
 ---
 
