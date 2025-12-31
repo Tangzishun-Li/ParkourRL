@@ -246,6 +246,18 @@ To modify training parameters (Batch Size, Learning Rate, Epsilon), edit the cor
 1. Develop docker containers to facilitate running projects in different environments.
 2. Implement more reinforcement learning algorithms, such as PPO.
 
+---
+## 🧑‍💻 Group member
+
+\#3 Wang Minglei \
+\#7 Zhou Boyan \
+\#10 Luo Zhengnan \
+\#15 Zhang Gaoyuan \
+\#17 Jin Qihao \
+\#21 Li Tangzishun \
+\#26 Chen Junyu \
+\#30 Li Nizhang\
+*(Ranking in no particular order, just sort by student number.)*\
 
 ---
 ## 🙏 Acknowledgments

@@ -246,6 +246,19 @@ python main.py build
    
 ---
 
+## 🧑‍💻 项目成员
+
+\#3 Wang Minglei \
+\#7 Zhou Boyan \
+\#10 Luo Zhengnan \
+\#15 Zhang Gaoyuan \
+\#17 Jin Qihao \
+\#21 Li Tangzishun \
+\#26 Chen Junyu \
+\#30 Li Nizhang\
+*(排名顺序没有先后, 只是根据学号排序)*
+
+---
 ## 🙏鸣谢
 
 最后我们由衷感谢澳门科技大学的卢教授和助教们，他们的指导和支持让我们能够完成这个项目。
