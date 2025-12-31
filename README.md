@@ -1,3 +1,4 @@
+![Role|50](res\d1.png)![Role|50](res\d1.png)![Role|50](res\d1.png)![Role|50](res\d1.png)![Role|50](res\d1.png)
 # ParkourRL: Deep Reinforcement Learning for 2D Parkour Game
 
 **ParkourRL** is a reinforcement learning research project that integrates a high-performance C++ physics engine with Python-based Deep Reinforcement Learning (DRL) algorithms. The project utilizes **Pybind11** to expose the C++ game environment to Python, enabling efficient training of agents using **DQN**, **A2C**, and **SARSA** algorithms to autonomously navigate complex obstacle courses.
@@ -28,7 +29,6 @@ ParkourRL/
     └── binding.cpp      # Pybind11 binding definitions
 
 ```
-
 ---
 
 ## 🛠️ Prerequisites & Installation
