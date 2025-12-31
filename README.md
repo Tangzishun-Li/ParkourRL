@@ -242,7 +242,7 @@ To modify training parameters (Batch Size, Learning Rate, Epsilon), edit the cor
 * **Network Upgrade:** Increased DQN hidden layer dimension (128 -> 256) for better feature extraction.
 * **Reward Refactor:** Implemented a **Multi-level Penalty System** to provide granular feedback based on the type of error (Severity/Timing), replacing the generic death penalty.
 
-### v1.1
+### v1.1(Update on 24/12/2025)
 
 * **Physics Fix:** Adjusted crouch duration frame logic (8,30 -> 8,40) to resolve collision issues with long hook obstacles.
 ---
