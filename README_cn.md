@@ -1,4 +1,5 @@
 ![Role|50](https://github.com/Tangzishun-Li/ParkourRL/blob/main/res/d1.png)![Role|50](https://github.com/Tangzishun-Li/ParkourRL/blob/main/res/d1.png)![Role|50](https://github.com/Tangzishun-Li/ParkourRL/blob/main/res/d1.png)
+![ParkourRL](https://github.com/Tangzishun-Li/ParkourRL/blob/main/res/paoku.gif)
 # ParkourRL: 基于深度强化学习的 2D 跑酷游戏
 
 **ParkourRL** 是一个深度强化学习研究项目，它结合了高性能的 C++ 物理引擎与基于 Python 的深度强化学习 (DRL) 算法。本项目利用 **Pybind11** 将 C++ 编写的游戏环境暴露给 Python，从而能够使用 **DQN**、**A2C** 和 **SARSA** 等算法高效地训练智能体，使其能够在复杂的障碍赛道中自主跑酷。
