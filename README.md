@@ -10,7 +10,7 @@
 
 **ParkourRL** is a reinforcement learning research project that integrates a high-performance C++ physics engine with Python-based Deep Reinforcement Learning (DRL) algorithms. The project utilizes **Pybind11** to expose the C++ game environment to Python, enabling efficient training of agents using **DQN**, **A2C**, and **SARSA** algorithms to autonomously navigate complex obstacle courses.
 
-📽️our project video: [Click to watch on YouTube](https://youtu.be/mt-hTwFStYk)\
+📽️our project video: [Click to watch on YouTube](https://youtu.be/mt-hTwFStYk)
 
 
 ---
@@ -58,18 +58,32 @@ This is the most stable method for Windows development.
 
 3. Ensure **[Python 3.8+](https://www.python.org/downloads/)** is installed and added to your system PATH.
 
-**Option B: Chocolatey (Command Line)**
-If you prefer using a package manager:
+**Option B: Scoop install (Command Line)**
+If you prefer using scoop:
 
 1. Open PowerShell as Administrator.
-2. Run the following command to install [scoop](https://scoop.sh/)(A command-line installer for Windows):
+2. Run the following command to install [scoop](https://scoop.sh/) (a command-line installer for Windows):
 ```powershell
 Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 ```
-3. then install python, mingw, cmake
+1. then install python, mingw, cmake
 ```bash
 scoop install python mingw cmake 
+```
+
+**Option C: Chocolatey (Command Line)**
+If you prefer using Chocolatey:
+
+1. Open PowerShell as Administrator.
+2. Run the following command to install chocolatey (also a package manager for Windows):
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+```
+3. Run the following command to install python, mingw, cmake:
+```powershell
+choco install python mingw cmake -y
 ```
 
 

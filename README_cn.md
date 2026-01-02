@@ -51,7 +51,7 @@ ParkourRL/
 
 3. 确保已安装 **[Python 3.8+](https://www.python.org/downloads/)** 并将其添加到系统 PATH 环境变量中。
 
-**方案 B: Chocolatey (命令行)**
+**方案 B: Scoop  (命令行)**
 如果您更喜欢使用包管理器：
 
 1. 以管理员身份打开 PowerShell。
@@ -65,6 +65,17 @@ Invoke-RestMethod -Uri https://get.scoop.sh | Invoke-Expression
 scoop install python mingw cmake 
 ```
 
+**方案 C: Chocolatey (命令行)**
+1. 以管理员身份打开 PowerShell。
+2. 运行以下命令安装 chocolatey (另一个 Windows 的包管理器):
+```
+Set-ExecutionPolicy Bypass -Scope Process -Force; [System.Net.ServicePointManager]::SecurityProtocol = [System.Net.ServicePointManager]::SecurityProtocol -bor 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://community.chocolatey.org/install.ps1'))
+
+```
+3. 运行以下命令安装 python, mingw, cmake:
+```powershell
+choco install python mingw cmake -y
+```
 
 
 #### 🍎 macOS 用户
