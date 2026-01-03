@@ -12,6 +12,7 @@
 
 📽️our project video: [Click to watch on YouTube](https://youtu.be/mt-hTwFStYk)
 
+📑our report： [Click to read on WPS](https://www.kdocs.cn/l/cggS4YrezVSg) or [Download PDF from FnOS](https://share.fnnas.net/s/e9aa6e69dcfb4d1f99)/[Download PDF from BaiduCould](https://pan.baidu.com/s/16TYfT5IgIeavQkkOpH-FEQ?pwd=demv) (Both have a valid period of one year. If they expire, please contact us via issue or email.)
 
 ---
 ## 📂 Project Structure

@@ -4,6 +4,9 @@
 **ParkourRL** 是一个深度强化学习研究项目，它结合了高性能的 C++ 物理引擎与基于 Python 的深度强化学习 (DRL) 算法。本项目利用 **Pybind11** 将 C++ 编写的游戏环境暴露给 Python，从而能够使用 **DQN**、**A2C** 和 **SARSA** 等算法高效地训练智能体，使其能够在复杂的障碍赛道中自主跑酷。
 
 📽️我们的视频: [点这里](https://youtu.be/mt-hTwFStYk)
+
+📑我们的报告： [点这里WPS在线阅读](https://www.kdocs.cn/l/cggS4YrezVSg) 或 [从 FnOS 下载](https://share.fnnas.net/s/e9aa6e69dcfb4d1f99)/[从 百度云 下载](https://pan.baidu.com/s/16TYfT5IgIeavQkkOpH-FEQ?pwd=demv) (均有1年有效期，如有失效请联系我们)
+
 ---
 
 ## 📂 项目结构
