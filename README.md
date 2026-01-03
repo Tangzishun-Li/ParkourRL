@@ -14,7 +14,7 @@
 
 📑our report： [Click to read on WPS](https://www.kdocs.cn/l/cds6K05u1p3I) or [Download PDF from FnOS](https://share.fnnas.net/s/ae131705d2ec43cf8e)/[Download PDF from BaiduCould](https://pan.baidu.com/s/16StGnTIM1pzdT0P9SYej9A?pwd=v3i9) (Both have a valid period of one year. If they expire, please contact us via issue or email.)
 
-📢our poster： [Click to watch on WPS](https://www.kdocs.cn/l/ccLrfiosHxU3)
+📢our poster： [Click to watch on WPS](https://www.kdocs.cn/l/ctiArY0cwhNB)
 
 
 ---

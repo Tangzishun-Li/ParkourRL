@@ -7,7 +7,7 @@
 
 📑我们的报告： [点这里WPS在线查看](https://www.kdocs.cn/l/cds6K05u1p3I) 或 [从FnOS下载](https://share.fnnas.net/s/ae131705d2ec43cf8e)/[从百度云下载](https://pan.baidu.com/s/16StGnTIM1pzdT0P9SYej9A?pwd=v3i9) (均有效期为一年，过期后请通过 issue 或 email 联系我们。)
 
-📢我们的海报： [点这里WPS在线观看](https://www.kdocs.cn/l/ccLrfiosHxU3)
+📢我们的海报： [点这里WPS在线观看](https://www.kdocs.cn/l/ctiArY0cwhNB)
 
 ---
 
