@@ -5,7 +5,7 @@
 
 📽️我们的视频: [点这里](https://youtu.be/mt-hTwFStYk)
 
-📑我们的报告： [点这里WPS在线阅读](https://www.kdocs.cn/l/cggS4YrezVSg) 或 [从 FnOS 下载](https://share.fnnas.net/s/e9aa6e69dcfb4d1f99)/[从 百度云 下载](https://pan.baidu.com/s/16TYfT5IgIeavQkkOpH-FEQ?pwd=demv) (均有1年有效期，如有失效请联系我们)
+📑我们的报告： [点这里在线观看](https://www.kdocs.cn/l/ccLrfiosHxU3) 或 [从FnOS下载](https://share.fnnas.net/s/43826ab1e5c84471af)/[从百度云下载](https://pan.baidu.com/s/1y7zCS1oM_L-cKfrrt5Gf8Q?pwd=ru39) (均有效期为一年，过期后请通过 issue 或 email 联系我们。)
 
 ---
 
