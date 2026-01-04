@@ -1,6 +1,11 @@
 cmake_minimum_required(VERSION 3.15)
 project(GameEnv)
 
+# --- 新增内容：强制 MSVC 使用 UTF-8 编码 ---
+if(MSVC)
+    add_compile_options(/utf-8)
+endif()
+# ------------------------------------------
 set(CMAKE_CXX_STANDARD 17)
 
 # --- 核心修复点 ---
